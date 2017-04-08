@@ -37,6 +37,13 @@ h1 {
 	color: #fff;
 }
 
+.plat h2{
+	text-align: center;
+}
+.plat p{
+	text-align: right;
+}
+
 .slides{
 	display: none;
 }
